@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Anshita Mehta 👋
 
-<!--
-**anshitamehta22/anshitamehta22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE Student exploring software development through creative and practical projects.
 
-Here are some ideas to get you started:
+## Interests
+- Full-stack development
+- Web applications
+- Productivity-focused projects
+- Creative digital experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### 🌸 Pastel Bloom
+A full-stack flower bouquet website with customizable bouquets, wishlist functionality, responsive design, and backend integration.
+
+### 📚 Study Planner App
+A productivity-focused planner featuring task management, scheduling, and Pomodoro functionality.
+
+### 💰 Personal Expense Tracker
+A Java-based application for managing expenses, budgets, and daily spending records.
+
+## Currently Working On
+- Building practical development projects
+- Improving problem-solving and programming skills
+- Exploring modern application development
+
+## Goal
+To create meaningful and user-friendly applications while continuously learning and growing as a developer.
